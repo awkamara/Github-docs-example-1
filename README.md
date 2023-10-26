@@ -57,12 +57,14 @@ sorted_names.each do |name|
 end
 ```
 
-- Make note of where the backtick button is located.
+- Make note of where the backtick keyboard key is located.
 - It should appear above the tab key,
 - but it may vary based on your keyboard layout.
+  
 <img width="403px" alt="backtick" src="https://github.com/awkamara/Github-docs-example-1/assets/145500282/a7cdc3b0-facf-4618-bde7-fef800abcb59">
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console
+
 ```bash
 Traceback (most recent call last):
   sample.rb:3:in `<main>'
@@ -70,6 +72,15 @@ sample.rb:3:in `[]': index 1 outside of array bounds (IndexError)
 ```
 
 > Here is an example of using a codeblock for an error that appears in bash.
+
+## Step 1 - How to take screenshots.
+
+A screenshot is when you capture a part of your screen from your laptop, desktop, or phone.
+
+This is not to be confused with take a photo with your phone.
+
+[a photo with your phone](assets/phone-photo.jpg)
+
 
 ## Step 3 - Use Github Flavoured Markdown Task Lists
 
@@ -103,6 +114,10 @@ You can use the following markdown format to create tables:
 ```
  Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
 
+ - Make note of where the pipe keyboard is located.
+- It should appear above the return or enter key,
+- but it may vary based on your keyboard layout.
+  
 ![Photo of the pipe character on our keyboard](assets/pipe-char.jpeg)
  
 ## External References
